@@ -15,7 +15,7 @@
 
 ### ◼️ Linguagens 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,python" height="40"/>
 </p>
 
 ---
