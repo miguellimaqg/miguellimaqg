@@ -54,6 +54,6 @@
 ---
 
 <div align="center">
-  <b>Até a próxima!!!🌌</b>
+  <b>Até a próxima!!🌌</b>
 </div>
 
